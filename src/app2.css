@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding:0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    border: 0;
+    margin-left: 0px;
+    
+}
+.landing-img{
+    padding: 0px;
+    background-size: cover;
+    padding-left: 0px;
+    padding-top: 0px;
+    margin: 10px;
+    width: 120px;
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 77px;
+    border-radius: 10px;
+}
+.cart{
+     position:absolute;
+     top:40px;
+     right:100px;
+     width: 24px;
+     height: 24 px;
+     padding-left:"200px";
+     color:yellow;
+     background-color: black;
+ }
+ .sign{
+    position:absolute;
+    top:40px;
+    right:40px;
+    padding-left:"200px";
+    color:yellow;
+    background-color: black;
+}
